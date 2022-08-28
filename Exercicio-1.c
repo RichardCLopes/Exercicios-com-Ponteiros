@@ -19,5 +19,6 @@ int main (void)
     printf ("\nTroca realizada:");
     printf ("\nNumber 1: %d", x);
     printf ("\nNumber 2: %d", y);
+    
     return 0;
 }

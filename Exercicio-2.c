@@ -16,5 +16,6 @@ int main (void)
 
     /* O que sera impresso ???? */
     printf("\nI: %d\nJ: %d\n",i ,j);
+    
     return 0;
 }
