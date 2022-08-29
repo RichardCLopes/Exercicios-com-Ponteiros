@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int i=1, n, *pvetor;
+    int i, n, *pvetor;
     float media;
     
     /* Define um valor para n , scanf ou n =*/
